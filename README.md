@@ -309,8 +309,7 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## 🔗 Related Projects
 
-- [LabClaw](https://github.com/wu-yc/LabClaw) - Comprehensive laboratory AI skill library
-- [Bio-LIMS](https://www.biolims.cn) - Biopharmaceutical Laboratory Information Management System
+- [Bio-LIMS](https://www.biolims.net) - Biopharmaceutical Laboratory Information Management System
 
 ---
 
